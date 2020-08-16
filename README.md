@@ -1,19 +1,19 @@
 # ssr-toy
-这是基于`Express` `React`搭建一个简易的SSR框架。
+基于`Express` `React`搭建一个简易的SSR框架。
 
 `ssr-toy`搭建了一个简易的`MVC`模式来实现`SSR`的渲染，相关目录及文件说明：
 
-`main.ts` 项目启动入口
+`src/main.ts` 项目启动入口
 
-`router.ts` 定义项目路由
+`src/router.ts` 定义项目路由
 
-`/controller` 控制器目录，`router.ts`的请求处理方法来自于该目录
+`src/controller` 控制器目录，`router.ts`的请求处理方法来自于该目录
 
-`/model` 数据层
+`src/model` 数据层
 
-`/pages` 视图层，该目录为前端代码，该项目基于React构建，所以里面视图都是React文件。
+`src/pages` 视图层，该目录为前端代码，该项目基于React构建，所以里面视图都是React文件。
 
-`view.tsx` 连接 `controller` `pages` 方法
+`src/view.tsx` 连接 `controller` `pages` 方法
 
 ## 开发环境
 
