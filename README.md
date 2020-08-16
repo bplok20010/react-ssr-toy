@@ -1,7 +1,7 @@
-# ssr-toy
+# react-ssr-toy
 基于`Express` `React`搭建一个简易的SSR框架。
 
-`ssr-toy`搭建了一个简易的`MVC`模式来实现`SSR`的渲染，相关目录及文件说明：
+该项目搭建了一个简易的`MVC`模式来实现`SSR`的渲染，相关目录及文件说明：
 
 `src/main.ts` 项目启动入口
 

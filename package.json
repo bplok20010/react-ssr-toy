@@ -1,5 +1,5 @@
 {
-	"name": "ssr-toy",
+	"name": "react-ssr-toy",
 	"version": "0.1.0",
 	"description": "ssr-toy",
 	"main": "lib/main.js",
