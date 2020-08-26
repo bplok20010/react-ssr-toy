@@ -75,5 +75,3 @@ res.send(`
     </body>
 <html>
 ```
-
-> 注：`hydrate`作用其实和`render`一样，只是会复用已创建的dom。
